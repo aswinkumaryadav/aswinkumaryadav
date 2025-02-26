@@ -1,6 +1,6 @@
 - 👋 Hi, This is Aswin Kumar Bisati
 - 👀 I’m interested in Data Analytics or Business Analytics
-- 🌱 I’m currently learning PowerBI, Sql, Tableau, Excel,Python
+- 🌱 I’m currently AI & Business Intelligence Analyst Intern at Offshore Construction Associates, Boston
 - 📫 How to reach me aswinkumaryadav5@gmail.com
 
 <!---
